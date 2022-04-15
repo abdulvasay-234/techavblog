@@ -1,0 +1,72 @@
+body {
+  margin: 0%;
+  font-family: 'Poppins', sans-serif;
+  background-color: #F0F0F0;
+  color: BLACK;
+}
+
+#algo {
+  color: #0a89ff;
+}
+
+#afu {
+  color: yellow;
+}
+
+.home {
+  text-align: left;
+  position: absolute;
+  color: #F0F0F0;
+  right: 13rem;
+}
+
+.contact-me {
+  text-align: left;
+  position: absolute;
+  right: 5rem;
+  color: #F0F0F0;
+}
+
+.blank {
+  height: 3.5rem;
+  width: auto;
+  background-color: #203239;
+}
+
+.title {
+  padding-left: 8rem;
+  padding-right: 18rem;
+}
+
+p {
+  position: relative;
+  margin-top: auto;
+  padding-left: 8rem;
+  padding-right: 18rem;
+}
+
+.java {
+  text-align: left;
+  position: absolute;
+  right: 10rem;
+  display: inline-block;
+  top: 3rem;
+}
+
+.b2 {
+  height: 8rem;
+  width: auto;
+  background-color: #203239;
+}
+
+/*  color: #F0F0F0;
+        display: inline-block;
+        position: absolute;
+        margin-block-start: 3.2em;
+        margin-block-end: 1em;
+        margin-inline-start: 25rem;
+        margin-inline-end: 0px;
+
+
+//}*/
+/*# sourceMappingURL=styles.css.map */
