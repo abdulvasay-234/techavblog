@@ -1,5 +1,6 @@
 # techavblog
 
+This is the official website of [**techAVblog**](https://afnanabdulvasay-234.github.io/techavblog/). All the files in this repository, is licensed under Creative Commons Attribution Share Alike 4.0 International
 
 # LICENSE
 The file is under the [**CC-BY-SA-4.0 license**](LICENSE) and is absolutely **FREE** for learning or Educational purpose **ONLY**.
