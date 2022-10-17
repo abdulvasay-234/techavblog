@@ -1,4 +1,4 @@
-# techavblog
+# techAVblog
 
 This is the official website of [**techAVblog**](https://afnanabdulvasay-234.github.io/techavblog/). All the files in this repository, is licensed under Creative Commons Attribution Share Alike 4.0 International
 
